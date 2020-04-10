@@ -20,7 +20,7 @@
 
 **Ссылки на баг-репорты**
 
-https://github.com/ErmEvgeniy/Java-2.2/issues/1пше 
+https://github.com/ErmEvgeniy/Java-2.2/issues/1
 
 
 
